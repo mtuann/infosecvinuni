@@ -3,19 +3,21 @@ title: "Information Security Lab - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
-permalink: /vacancies
+permalink: /vacancies/
 ---
 
 # Open positions
 
-**We currently have two open positions available in our lab.** 
+**We currently have two open positions available in our lab.**
 
 ## Postdoctoral Fellowship in Machine Learning, Information Security, and Trustworthy AI
+
 We are seeking a highly motivated and skilled postdoctoral fellow with experience in machine learning, information security, and trustworthy AI. The project focuses on designing a trustworthy federated learning (FL) framework for the healthcare system with theoretical guarantees for its privacy, robustness, and agent-level data valuation and explainability, aiming to make the healthcare systems more efficient and trustworthy. The successful candidate will develop novel approaches for federated learning in medical systems. The candidate will be embedded in a highly international research group offering wide expertise in machine learning on medical dataset. Also, we provide the candidate with direct access to computing facilities optimized for machine/deep learning.
 
 The position is for two years and comes with a competitive salary and benefits package. For more information and to apply, please visit [Opening Postdoc](https://smarthealth.vinuni.edu.vn/?careers=postdoctoral-fellowship-in-machine-learning-information-security-and-trustworthy-ai).
 
 ## Full-time Research Assistant (Several Positions Available)
+
 We are also seeking several full-time research assistants to work with a team of researchers in our lab. The topics for the research assistant positions are:
 
 - Trustworthy, Robust, and Explainable Federated Learning
@@ -32,7 +34,7 @@ You can find the job openings here:
 [Opening RA]({{ site.baseurl }}/downloads/Call-for-RA.pdf),
 [Opening Postdoc](https://smarthealth.vinuni.edu.vn/?careers=postdoctoral-fellowship-in-machine-learning-information-security-and-trustworthy-ai)
 
-<!-- 
+<!--
 **We are currently open for PhD and postdoc applications related to our ERC CoG grant. The positions are mostly related to the Electron Pair Microscopy projects.**
 
 We are  looking for new group members with passion, talent, and grit!
@@ -47,7 +49,7 @@ You find the past job openings here:
 [Opening 3]({{ site.baseurl }}/downloads/PD.pdf),
 [Opening 4]({{ site.baseurl }}/downloads/PHD1.pdf),
 [Opening 5]({{ site.baseurl }}/downloads/PHD2.pdf). -->
-<!-- 
+<!--
 ### Applications for PhD and Postdoc positions
 If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
 
