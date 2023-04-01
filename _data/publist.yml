@@ -1,5 +1,5 @@
 - title: "Backdoor Attacks and Defenses in Federated Learning: Survey, Challenges and Future Research Directions"
-  image: imageaward_edited.png
+  image: paper-03.png
   description: We provide a comprehensive survey of current backdoor attack strategies and defenses in FL, including a comprehensive analysis of different approaches.
   authors: Thuy Dung Nguyen, Tuan Nguyen, Phi Le Nguyen, Hieu H Pham, Khoa Doan, Kok-Seng Wong
   link:
@@ -8,7 +8,7 @@
   highlight: 1
 
 - title: "Personalized Privacy-Preserving Framework for Cross-Silo Federated Learning"
-  image: imageaward_edited.png
+  image: paper-02.png
   description: In this paper, we propose a novel framework, namely Personalized Privacy-Preserving Federated Learning (PPPFL), with a concentration on cross-silo FL to overcome these challenges.
   authors: Van-Tuan Tran, Huy-Hieu Pham, Kok-Seng Wong
   link:
@@ -17,7 +17,7 @@
   highlight: 1
 
 - title: "FedDCT: Federated Learning of Large Convolutional Neural Networks on Resource Constrained Devices using Divide and Co-Training"
-  image: imageaward_edited.png
+  image: paper-03.png
   description: We introduce FedDCT, a novel distributed learning paradigm that enables the usage of large, high-performance CNNs on resource-limited edge devices.
   authors: Quan Nguyen, Hieu H Pham, Kok-Seng Wong, Phi Le Nguyen, Truong Thao Nguyen, Minh N Do
   link:
@@ -26,7 +26,7 @@
   highlight: 1
 
 - title: "Toward Efficient Hierarchical Federated Learning Design Over Multi-Hop Wireless Communications Networks"
-  image: imageaward_edited.png
+  image: paper-01.png
   description: This paper proposes a two-hop communication protocol with a dynamic resource allocation strategy to investigate the possibility of bandwidth allocation from a limited network resource to the maximum number of clients participating in FL.
   authors: Tu Viet Nguyen, Nhan Duc Ho, Hieu Thien Hoang, Cuong Danh Do, Kok-Seng Wong
   link:
@@ -35,7 +35,7 @@
   highlight: 1
 
 - title: "On the Trade-off Between Privacy Protection and Data Utility for Chest X-ray Images"
-  image: imageaward_edited.png
+  image: paper-02.png
   description: This paper aims to find a trade-off between our privacy protection method and data utility for medical images. Specifically, we propose a solution to anonymize chest X-ray images by directly adding noise to the images to prevent verification attacks and evaluate how well those images can maintain good performance in the lung disease classification task.
   authors: Truong Giang Vu, Nursultan Makhanov, Nguyen Anh Tu, Kok-Seng Wong
   link:
@@ -44,7 +44,7 @@
   highlight: 1
 
 - title: "Emerging Privacy and Trust Issues for Autonomous Vehicle Systems"
-  image: imageaward_edited.png
+  image: paper-01.png
   description: This paper discusses the emerging privacy and trust issues that are essential to motivate the acceptance of autonomous vehicles operating on public roads.
   authors: Thai-Hung Nguyen, Truong Giang Vu, Huong-Lan Tran, Kok-Seng Wong
   link:
@@ -53,7 +53,7 @@
   highlight: 1
 
 - title: "Efficient two-party integer comparison with block vectorization mechanism"
-  image: imageaward_edited.png
+  image: paper-03.png
   description: In this paper, we transform the private integer comparison into a block comparison problem.In particular, we employ a block vectorization mechanism to encode the private inputs into blocks.
   authors: Thai-Hung Nguyen, Kok-Seng Wong, Thomas Oikonomou
   link:
