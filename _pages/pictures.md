@@ -17,6 +17,10 @@ permalink: /pictures/
 <!-- #### Timelapse of our STM assembling [(see LION news item)](https://www.physics.leidenuniv.nl/index.php?id=11573&news=867&type=lion&ln=EN):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3iKvUMv1h5A" frameborder="0" allowfullscreen></iframe> -->
 
+#### Welcome to VinUniversity:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RFikpr2jHJo" frameborder="0" allowfullscreen></iframe>
+
+
 #### Gallery
 (Right-click *'view image'* to see a larger image.)
 {% assign number_printed = 0 %}
