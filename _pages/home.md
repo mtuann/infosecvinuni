@@ -7,10 +7,10 @@ permalink: /
 ---
 
 <!-- We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter. -->
-Our research group is located at the [College of Engineering and Computer Science, VinUniversity](https://vinuni.edu.vn/college-of-engineering-computer-science/). Our lab specializes in research related to applied cryptography, secret sharing, information security, data privacy, and privacy-preserving machine/federated learning. We strive to make meaningful contributions to the field of information security, with the ultimate goal of enhancing the security and privacy of individuals and organizations. We work towards finding solutions that apply to smart healthcare and beyond.
-<!-- We work towards finding solutions to the challenges of information security in today's interconnected digital world. -->
- 
 
+Our research group is located at the [College of Engineering and Computer Science, VinUniversity](https://vinuni.edu.vn/college-of-engineering-computer-science/). Our lab specializes in research related to applied cryptography, secret sharing, information security, data privacy, and privacy-preserving machine/federated learning. We strive to make meaningful contributions to the field of information security, with the ultimate goal of enhancing the security and privacy of individuals and organizations. We work towards finding solutions that apply to smart healthcare and beyond.
+
+<!-- We work towards finding solutions to the challenges of information security in today's interconnected digital world. -->
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -45,12 +45,13 @@ Our research group is located at the [College of Engineering and Computer Scienc
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/Award.jpeg" alt="Slide 5" />
-        </div>       
+        </div>
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/Group-brunch.jpeg" alt="Slide 6" />
         </div>
 
     </div>
+
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
@@ -81,14 +82,11 @@ To join our lab, you should have a solid foundation in computer science, includi
 
 <!-- We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl). -->
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+**We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 <!-- We are grateful for funding from [VinUniversity](https://vinuni.edu.vn/), [VinUni-Illinois Smart Health Center](https://smarthealth.vinuni.edu.vn/), and the [Vingroup Innovation Foundation](https://vinif.org/), as well as funding from [Nazarbayev University](https://nu.edu.kz/) in Kazakhstan. -->
 
 Our research group is supported by funding from [VinUniversity](https://vinuni.edu.vn/), [VinUni-Illinois Smart Health Center](https://smarthealth.vinuni.edu.vn/), and the [Vingroup Innovation Foundation](https://vinif.org/), as well as funding from [Nazarbayev University](https://nu.edu.kz/) in Kazakhstan. Please browse our website to learn more about our ongoing research projects and publications.
-
-
-
 
 <!-- We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants). -->
 
