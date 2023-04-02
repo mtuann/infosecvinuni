@@ -1,7 +1,7 @@
 ---
 title: "Information Security Lab - Vacancies"
 layout: textlay
-excerpt: "Openings"
+excerpt: "Information Security Lab -- Vacancies"
 sitemap: false
 permalink: /vacancies/
 ---
@@ -28,7 +28,7 @@ The research assistants will support the development and implementation of feder
 
 The ideal candidates will have a strong background in computer science, mathematics, or a related field, with experience in machine learning and programming. A Bachelor's or Master's degree is required, and a PhD is preferred.
 
-These are full-time positions with competitive salary and benefits packages. For more information and to apply, please send your CV and a cover letter to `wong.ks@gmail.com` with the subject line "Research Assistant Position".
+These are full-time positions with competitive salary and benefits packages. For more information and to apply, please send your CV and a cover letter to `wong.ks@vinuni.edu.vn` with the subject line "Research Assistant Position".
 
 You can find the job openings here:
 [Opening RA]({{ site.baseurl }}/downloads/Call-for-RA.pdf),
