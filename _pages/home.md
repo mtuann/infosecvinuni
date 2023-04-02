@@ -46,8 +46,11 @@ Our research group is located at the [College of Engineering and Computer Scienc
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/Award.jpeg" alt="Slide 5" />
         </div>
-         <div class="item">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/Group-brunch.jpeg" alt="Slide 6" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/Group-brunch.jpeg" alt="Slide 7" />
         </div>
 
     </div>
