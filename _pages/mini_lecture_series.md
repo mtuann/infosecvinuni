@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - AOA"
+title: "Information Security Lab"
 layout: textlay
 excerpt: "AOA"
 sitemap: false
