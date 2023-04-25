@@ -30,6 +30,107 @@
   number_educ: 1
   education1: B.Sc., Electronics and Telecommunications Engineering, Hanoi University of Science and Technology, Hanoi, Vietnam
 
+
+- name: Nguyen Thuy Dung
+  photo: dung.nt2.png
+  info: Research Assistant
+  email: dung.nt2@vinuni.edu.vn
+  number_educ: 1
+  education1: B.Sc., Global ICT, Hanoi University of Science and Technology, Hanoi, Vietnam
+
+- name: Le Huy Khiem
+  photo: khiem.lh.jpg
+  info: Research Assistant
+  email: khiem.lh@vinuni.edu.vn
+  number_educ: 1
+  education1: B.Sc., Mathematics and Computer Science, VNU-HCM University of Science
+
+- name: Ho Tuan Long
+  photo: long.ht.jpeg
+  info: Research Assistant
+  email: long.ht@vinuni.edu.vn
+  number_educ: 1
+  education1: B.Sc., Computer Science, VNU University of Engineering and Technology, Hanoi, Vietnam
+
+- name: Nguyen Thai Hung
+  photo: hung.nt.jpeg
+  info: Research Assistant, Bachelor Student, College of Engineering and Computer Science, VinUniversity
+  email: hung.nt@vinuni.edu.vn
+  number_educ: 1
+  education1: 
+
+- name: Vu Hong Phuc
+  photo: hung.nt.jpeg
+  info: Research Assistant, Bachelor Student, College of Engineering and Computer Science, VinUniversity
+  email: hung.nt@vinuni.edu.vn
+  number_educ: 1
+  education1:
+
+- name: Pham Phuoc Minh Quang
+  photo: hung.nt.jpeg
+  info: Research Assistant, Bachelor Student, College of Engineering and Computer Science, VinUniversity
+  email: hung.nt@vinuni.edu.vn
+  number_educ: 1
+  education1:
+
+- name: Dao Duc Thinh
+  photo: hung.nt.jpeg
+  info: Research Assistant, Bachelor Student, College of Engineering and Computer Science, VinUniversity
+  email: hung.nt@vinuni.edu.vn
+  number_educ: 1
+  education1:
+
+- name: Thai Minh Dung
+  photo: 22dung.tm.jpg
+  info: Research Assistant, Bachelor Student, College of Engineering and Computer Science, VinUniversity
+  email: 22dung.tm@vinuni.edu.vn
+  number_educ: 1
+  education1:
+
+- name: La Duc Chinh
+  photo: chinh.ld.jpeg
+  info: Research Assistant
+  email: chinh.ld@vinuni.edu.vn
+  number_educ: 2
+  education1: M.Eng in Machine Learning and Computer Vision, ANU, Australia"
+  education2: B.Eng in Control and Automation Engineering, HUST, Vietnam
+
+- name: Hoang Cao Duy
+  photo: hung.nt.jpeg
+  info: Research Assistant
+  email: hung.nt@vinuni.edu.vn
+  number_educ: 1
+  education1:
+
+- name: Nguyen Hung Quang
+  photo: quang.nh.jpg
+  info: Research Assistant
+  email: quang.nh@vinuni.edu.vn
+  number_educ: 1
+  education1: B.Sc., Computer Science, VNU University of Engineering and Technology, Hanoi, Vietnam
+
+- name: Le Hoang Long
+  photo: hung.nt.jpeg
+  info: Research Assistant
+  email: hung.nt@vinuni.edu.vn
+  number_educ: 1
+  education1: B.Sc., Computer Science, VNU University of Engineering and Technology, Hanoi, Vietnam
+
+- name: Nguyen Xuan Hieu
+  photo: 21hieu.nx.JPG
+  info: UROP, Bachelor Student, College of Engineering and Computer Science, VinUniversity
+  email: 21hieu.nx@vinuni.edu.vn
+  number_educ: 1
+  education1: 
+
+- name: Khuong Duy
+  photo: 22duy.k.jpg
+  info: UROP, Bachelor Student, College of Engineering and Computer Science, VinUniversity
+  email: 22duy.k@vinuni.edu.vn
+  number_educ: 1
+  education1:
+
+
   # number_educ: 5
   # education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
   # education2: PhD St Andrews (while at Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
