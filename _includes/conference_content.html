@@ -1,0 +1,11 @@
+{% assign url = include.url %}
+
+<script>
+  fetch('{{ url }}')
+    .then(response => response.text())
+    .then(content => {
+      document.getElementById('fetched-content').innerHTML = content;
+    });
+</script>
+
+<div id="fetched-content"></div>
