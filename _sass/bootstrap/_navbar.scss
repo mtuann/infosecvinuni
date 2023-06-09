@@ -111,8 +111,8 @@
     margin-left:  -$navbar-padding-horizontal;
 
     @media (min-width: $grid-float-breakpoint) {
-      margin-right: 0;
-      margin-left:  0;
+      margin-right: -150px;
+      margin-left:  -100px;
     }
   }
 }
@@ -381,8 +381,8 @@
   }
   .navbar-right {
     float: right !important;
-  // margin-right: -$navbar-padding-horizontal;
-  margin-right: -200px; // hardcode
+  margin-right: -$navbar-padding-horizontal;
+  // margin-right: -200px; // hardcode
 
     ~ .navbar-right {
       margin-right: 0;
