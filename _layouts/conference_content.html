@@ -1,0 +1,25 @@
+<!-- default.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ page.title }}</title>
+</head>
+<body>
+    <h1>{{ page.title }}</h1>
+    <div id="dynamic-content"></div>
+
+    <script>
+        // Fetch dynamic content from the URL
+        fetch("https://aideadlin.es/?sub=ML,CV,CG,NLP,RO,SP,DM,AP,KR")
+            .then(response => response.text())
+            .then(data => {
+                // Update the dynamic content element
+                const dynamicContent = document.getElementById('dynamic-content');
+                dynamicContent.innerHTML = data;
+            })
+            .catch(error => {
+                console.error('Error:', error);
+            });
+    </script>
+</body>
+</html>
