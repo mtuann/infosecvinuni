@@ -96,6 +96,4 @@ Our research group is supported by funding from [VinUniversity](https://vinuni.e
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/vinuni-logo.png" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/shc-logo.png" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/vinif-logo.jpeg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nu_logo_0.png" style="width: 110px">
 </figure>
