@@ -6,62 +6,32 @@ sitemap: false
 permalink: /seminars/
 ---
 
-# Open positions
 
-**We currently have two open positions available in our lab.**
+# Title: Seminar Series on NLP Robustness and Federated Learning
 
-## Postdoctoral Fellowship in Machine Learning, Information Security, and Trustworthy AI
+## Weekly Reading Group on NLP Robustness:
+Every Wednesday, 9:30 AM - 10:30 AM Vietnam GMT+7
 
-We are seeking a highly motivated and skilled postdoctoral fellow with experience in machine learning, information security, and trustworthy AI. The project focuses on designing a trustworthy federated learning (FL) framework for the healthcare system with theoretical guarantees for its privacy, robustness, and agent-level data valuation and explainability, aiming to make the healthcare systems more efficient and trustworthy. The successful candidate will develop novel approaches for federated learning in medical systems. The candidate will be embedded in a highly international research group offering wide expertise in machine learning on medical dataset. Also, we provide the candidate with direct access to computing facilities optimized for machine/deep learning.
+Description:
+Join our weekly reading group on NLP Robustness, where we explore the latest research and advancements in ensuring the robustness of Natural Language Processing (NLP) models. This seminar series provides an opportunity for researchers and practitioners in our lab to delve into topics such as adversarial attacks, defense mechanisms, model interpretability, and more. Through presentations and discussions, we aim to deepen our understanding of NLP robustness and foster collaborative learning within our community.
 
-The position is for two years and comes with a competitive salary and benefits package. For more information and to apply, please visit [Opening Postdoc](https://smarthealth.vinuni.edu.vn/?careers=postdoctoral-fellowship-in-machine-learning-information-security-and-trustworthy-ai).
+For more information and to join the Weekly Reading Group on NLP Robustness, please visit our [seminar schedule here](https://peppered-jodhpur-f74.notion.site/Reading-NLP-Robustness-Wed-9-30am-10-30am-Vietnam-GMT-7-e3f616fb348c40a8a9d9a3b292b32136?pvs=4).
 
-## Full-time Research Assistant (Several Positions Available)
+## Weekly Seminar Group on Federated Learning:
+Every Wednesday, 10:30 AM - 11:30 AM Vietnam GMT+7
 
-We are also seeking several full-time research assistants to work with a team of researchers in our lab. The topics for the research assistant positions are:
+Description:
+Our weekly seminar group focuses on the exciting field of Federated Learning. Join us as we discuss various aspects of federated learning, including novel algorithms, privacy concerns, fairness considerations, and more. Through presentations and discussions, we aim to explore topics such as backdoor attacks, federated unlearning, personalized federated learning, and fairness in federated learning. This seminar series provides a platform for researchers in our lab to stay updated on the latest advancements and engage in insightful conversations about the challenges and opportunities in federated learning.
 
-- Trustworthy, Robust, and Explainable Federated Learning
-- Federated Recommender Systems
-- Federated Adversarial Training
+Join us for these engaging seminars and be part of the vibrant research community at our lab. Stay informed, share insights, and collaborate with like-minded individuals in the fields of Machine Learning, Information Security, and Trustworthy AI.
 
-The research assistants will support the development and implementation of federated learning models and algorithms. This may include data collection and preprocessing, model training and evaluation, and technical report writing. The research assistants will also be responsible for staying up-to-date with the latest machine learning developments and contributing to the team's research efforts.
-
-The ideal candidates will have a strong background in computer science, mathematics, or a related field, with experience in machine learning and programming. A Bachelor's or Master's degree is required, and a PhD is preferred.
-
-These are full-time positions with competitive salary and benefits packages. For more information and to apply, please send your CV and a cover letter to `wong.ks@vinuni.edu.vn` with the subject line "Research Assistant Position".
-
-You can find the job openings here:
-[Opening RA]({{ site.baseurl }}/downloads/Call-for-RA.pdf),
-[Opening Postdoc](https://smarthealth.vinuni.edu.vn/?careers=postdoctoral-fellowship-in-machine-learning-information-security-and-trustworthy-ai)
-
-<!--
-**We are currently open for PhD and postdoc applications related to our ERC CoG grant. The positions are mostly related to the Electron Pair Microscopy projects.**
-
-We are  looking for new group members with passion, talent, and grit!
-
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries. -->
-
-<!-- ### Past open positions
-
-You find the past job openings here:
-[Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
-<!-- [Opening 2]({{ site.baseurl }}/downloads/PPMS_PhD_2019_v01.pdf),
-[Opening 3]({{ site.baseurl }}/downloads/PD.pdf),
-[Opening 4]({{ site.baseurl }}/downloads/PHD1.pdf),
-[Opening 5]({{ site.baseurl }}/downloads/PHD2.pdf). -->
-<!--
-### Applications for PhD and Postdoc positions
-If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
-
-We especially welcome postdocs with fellowships. I'd be happy to support you, also after you apply to our group. Take a look at the [veni fellowship](https://www.nwo.nl/en/calls/nwo-talent-programme-veni-science-domain) or the Marie Curie fellowship (currently closed, next deadline probably Fall 2021, [here is last years call]({{ site.baseurl }}/downloads/h2020-wp1820-msca_en.pdf)). In many country, there are also fellowships available for outdoing postdocs.**
-
-
-### Master projects for Leiden University students
-If you are a Master student at Leiden University looking for a Master project, contact me (or any group member) per email or stop by my office.
-
-### Bsc / Master students from elsewhere
-If you are interested in pursuing a Master degree at Leiden University, see [mastersinleiden.nl](http://www.mastersinleiden.nl/programmes/physics/en/introduction). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades and a personal recommendation). -->
+For more information and to join the Weekly Reading Group on Federated Learning, please visit our [seminar schedule here](https://docs.google.com/spreadsheets/d/1TCBtmDIWRhhbCwdOr9Jm0BieIyHfm2V78NJcCZUwH8Y/edit?usp=sharing).
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/RA-English-class.jpeg" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/seminar-01.jpeg" width="95%">
 </figure>
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/seminar-02.jpeg" width="95%">
+</figure>
+

@@ -6,6 +6,5 @@ sitemap: false
 permalink: /tar_conferences/
 ---
 
-{% include conference_content.html url="https://aideadlin.es/?sub=ML,CV,CG,NLP,RO,SP,DM,AP,KR" %}
-
-
+- [AI Conference Deadlines](https://aideadlin.es/?sub=ML,CV,CG,NLP,RO,SP,DM,AP,KR)
+- [Security and Privacy Conference Deadlines](https://sec-deadlines.github.io/)
