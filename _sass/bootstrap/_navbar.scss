@@ -381,7 +381,8 @@
   }
   .navbar-right {
     float: right !important;
-  margin-right: -$navbar-padding-horizontal;
+  // margin-right: -$navbar-padding-horizontal;
+  margin-right: -200px; // hardcode
 
     ~ .navbar-right {
       margin-right: 0;
