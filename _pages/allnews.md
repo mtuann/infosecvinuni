@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Information Security Lab at VinUniversity."
+excerpt: "Security and Artificial Intelligence Lab at VinUniversity."
 sitemap: false
 permalink: /allnews.html
 ---

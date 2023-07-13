@@ -1,22 +1,27 @@
 ---
-title: "Information Security Lab - Research"
+title: "Security and Artificial Intelligence Lab - Research"
 layout: textlay
-excerpt: "Information Security Lab -- Research"
+excerpt: "Security and Artificial Intelligence Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
 
 # Research
+At the Security and Artificial Intelligence Lab, our dedication lies in advancing the fields of Federated Learning and NLP Robustness.
 
-At the Information Security Lab, our overarching goal is to advance the state-of-the-art in information security and privacy through cutting-edge research in applied cryptography, secret sharing, data privacy, and privacy-preserving machine/federated learning. We strive to address the challenges of information security in today's interconnected digital world, with a particular focus on developing novel solutions that apply to smart healthcare. 
+In the field of Federated Learning, we investigate various aspects such as privacy concerns, novel algorithms, fairness considerations, and more. Our goal is to address the challenges associated with federated learning, including backdoor attacks, federated unlearning, personalized federated learning, and fairness. By conducting research in these areas, we strive to advance the state-of-the-art and promote the adoption of secure and privacy-preserving machine learning techniques. Join our research lab and be part of our vibrant community focused on cutting-edge research in Machine Learning, Federated Learning, Information Security, and Trustworthy AI.
 
-Through our work, we aim to create a more secure, trustworthy, and privacy-preserving future for individuals and organizations alike. To achieve this goal, we conduct rigorous research, collaborate with other experts in the field, and provide training and mentorship opportunities for the next generation of researchers and practitioners in information security.
+In NLP Robustness, we focus on ensuring the Robustness of Natural Language Processing (NLP) models. Our research group explores topics such as adversarial attacks, defense mechanisms, model interpretability, and more. Through in-depth discussions and research, we aim to deepen our understanding of NLP robustness and contribute to the development of robust NLP systems. 
+
+<!-- At the Security and Artificial Intelligence Lab, our overarching goal is to advance the state-of-the-art in information security and privacy through cutting-edge research in applied cryptography, secret sharing, data privacy, and privacy-preserving machine/federated learning. We strive to address the challenges of information security in today's interconnected digital world, with a particular focus on developing novel solutions that apply to smart healthcare.  -->
+
+<!-- Through our work, we aim to create a more secure, trustworthy, and privacy-preserving future for individuals and organizations alike. To achieve this goal, we conduct rigorous research, collaborate with other experts in the field, and provide training and mentorship opportunities for the next generation of researchers and practitioners in information security. -->
 
 <!-- Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
 
 Our goal is to build instruments and develop techniques that enable us to address the questions we find most interesting. This is possible thanks also to Milan's broad background with different research themes and technologies: he learned his trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where he investigated coupled cavity arrays in circuit QED. We further have group members with different background and interests, working together on physics and instrumentation. -->
 
-Here are some themes and techniques that we currently work on:
+<!-- Here are some themes and techniques that we currently work on:
 
 **Applied Cryptography.** The study of techniques for secure communication in the presence of adversaries, with a focus on developing cryptographic protocols and systems that are efficient, secure, and resistant to attacks.
 
@@ -26,38 +31,50 @@ Here are some themes and techniques that we currently work on:
 
 **Data Privacy.** The study of methods for protecting the privacy of individuals and sensitive information in data collection, storage, processing, and sharing, with applications in healthcare, finance, and social media.
 
-**Privacy-Preserving Machine Learning.** The study of techniques for training machine learning models on sensitive data without revealing the data or compromising the privacy of individuals, with applications in healthcare, finance, and other domains.
+**Privacy-Preserving Machine Learning.** The study of techniques for training machine learning models on sensitive data without revealing the data or compromising the privacy of individuals, with applications in healthcare, finance, and other domains. -->
 
 # Projects
+1. Project Title: "Smart Indoor Air Quality Control System for Healthier and Greener Buildings,"  Vinuni-Illinois Smart Health Center Project. (Principal Investigator: Prof. Andrew Le Duy Dung & Prof. Vishal Verma, **Co-PI: Prof. Kok-Seng Wong**)
+2. Project Title: "Development of Brain-Computer Interface SW/HW Solutions," Oct 2022- Oct 2024, Commercialization Project, Nazarbayev University, Kazakhstan. (Principal Investigator: Prof. Minho Lee, **Co-PI: Prof. Kok-Seng Wong**)
+3. Project Title: "Applying Machine Learning to Mitigate RF Impairments in Wireless Communications Systems," Oct 2022- Dec 2023, Seed Grant, VinUniversity, Hanoi, Vietnam. (**Principal Investigator: Prof. Kok Seng Wong**)
+4. Project Title: "Privacy-Preserving, Robust, and Explainable Federated Learning Framework for Healthcare System," Vinuni-Illinois Smart Health Center Project. (**Principal Investigator: Prof. Kok Seng Wong, Co-PI: Prof. Khoa Doan**)
+5. Project Title: "Privacy-Preserving Data Publishing for Autonomous Vehicles," Jan 2021- Dec 2023, Seed Grant, VinUniversity, Vietnam. (**Principal Investigator: Prof. Kok Seng Wong**)
 
+# Research focus
+- Backdoor Attacks in Machine Learning/ Federated Learning
+- Depoloyment of Federated Learning on Edge Devices
+- Machine/ Federated Unlearning, Personalized Federated Learning, and Fairness
+- NLP Robustness
 
-# Target Conferences
+# List of AI/Security Conference Deadlines
+
 - [AI Conference Deadlines](https://aideadlin.es/?sub=ML,CV,CG,NLP,RO,SP,DM,AP,KR)
 - [Security and Privacy Conference Deadlines](https://sec-deadlines.github.io/)
 
-# Seminar Series on NLP Robustness and Federated Learning
+# Seminar Series on Federated Learning and NLP Robustness
 
-## Weekly Reading Group on NLP Robustness:
-Every Wednesday, 9:30 AM - 10:30 AM Vietnam GMT+7
+- Weekly Seminar Group on Federated Learning: Every Wednesday, 10:30 AM - 11:30 AM Vietnam GMT+7
+- Weekly Reading Group on NLP Robustness: Every Wednesday, 9:30 AM - 10:30 AM Vietnam GMT+7
 
-Description:
-Join our weekly reading group on NLP Robustness, where we explore the latest research and advancements in ensuring the robustness of Natural Language Processing (NLP) models. This seminar series provides an opportunity for researchers and practitioners in our lab to delve into topics such as adversarial attacks, defense mechanisms, model interpretability, and more. Through presentations and discussions, we aim to deepen our understanding of NLP robustness and foster collaborative learning within our community.
+### ... and more.
 
-## Weekly Seminar Group on Federated Learning:
-Every Wednesday, 10:30 AM - 11:30 AM Vietnam GMT+7
+<!-- Description:
+Join our weekly reading group on NLP Robustness, where we explore the latest research and advancements in ensuring the robustness of Natural Language Processing (NLP) models. This seminar series provides an opportunity for researchers and practitioners in our lab to delve into topics such as adversarial attacks, defense mechanisms, model interpretability, and more. Through presentations and discussions, we aim to deepen our understanding of NLP robustness and foster collaborative learning within our community. -->
 
-Description:
+
+<!-- Description:
 Our weekly seminar group focuses on the exciting field of Federated Learning. Join us as we discuss various aspects of federated learning, including novel algorithms, privacy concerns, fairness considerations, and more. Through presentations and discussions, we aim to explore topics such as backdoor attacks, federated unlearning, personalized federated learning, and fairness in federated learning. This seminar series provides a platform for researchers in our lab to stay updated on the latest advancements and engage in insightful conversations about the challenges and opportunities in federated learning.
 
-Join us for these engaging seminars and be part of the vibrant research community at our lab. Stay informed, share insights, and collaborate with like-minded individuals in the fields of Machine Learning, Information Security, and Trustworthy AI.
+Join us for these engaging seminars and be part of the vibrant research community at our lab. Stay informed, share insights, and collaborate with like-minded individuals in the fields of Machine Learning, Information Security, and Trustworthy AI. -->
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/seminar-01.jpeg" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/home/home-03.jpg" width="95%">
 </figure>
 
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/seminar-02.jpeg" width="95%">
-</figure>
+<!-- <figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/home/home-04.jpg" width="95%">
+</figure> -->
+
 <!-- Themes:
 Applied cryptography
 Secret sharing
@@ -107,4 +124,3 @@ We have proposed that artificial super-periodicities can lead to improved superc
 
 <!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"} -->
 
-### ... and more.

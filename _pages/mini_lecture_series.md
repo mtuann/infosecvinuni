@@ -1,7 +1,7 @@
 ---
-title: "Information Security Lab"
+title: "Security and Artificial Intelligence Lab"
 layout: textlay
-excerpt: "Information Security Lab"
+excerpt: "Security and Artificial Intelligence Lab"
 sitemap: false
 permalink: /aoa.html
 ---

@@ -1,16 +1,10 @@
-- name: Hong-Son Nguyen
-  photo: son.nh.jpg
+- name: La Duc Chinh
+  photo: chinh.ld.jpg
   info: Research Assistant
-  email: son.nh@vinuni.edu.vn
-  number_educ: 1
-  education1: B.Sc., Electronics and Telecommunications Engineering, Hanoi University of Science and Technology, Hanoi, Vietnam
-
-- name: Nguyen Thuy Dung
-  photo: dung.nt2.png
-  info: Research Assistant
-  email: dung.nt2@vinuni.edu.vn
-  number_educ: 1
-  education1: B.Sc., Global ICT, Hanoi University of Science and Technology, Hanoi, Vietnam
+  email: chinh.ld@vinuni.edu.vn
+  number_educ: 2
+  education1: M.Eng in Machine Learning and Computer Vision, ANU, Australia
+  education2: B.Eng in Control and Automation Engineering, HUST, Vietnam
 
 - name: Le Huy Khiem
   photo: khiem.lh.jpg
@@ -19,6 +13,13 @@
   number_educ: 1
   education1: B.Sc., Mathematics and Computer Science, VNU-HCM University of Science
 
+- name: Hong-Son Nguyen
+  photo: son.nh.jpg
+  info: Research Assistant
+  email: son.nh@vinuni.edu.vn
+  number_educ: 1
+  education1: B.Sc., Electronics and Telecommunications Engineering, Hanoi University of Science and Technology, Hanoi, Vietnam
+
 - name: Ho Tuan Long
   photo: long.ht.jpeg
   info: Research Assistant
@@ -26,20 +27,13 @@
   number_educ: 1
   education1: B.Sc., Computer Science, VNU University of Engineering and Technology, Hanoi, Vietnam
 
-- name: La Duc Chinh
-  photo: chinh.ld.jpg
-  info: Research Assistant
-  email: chinh.ld@vinuni.edu.vn
-  number_educ: 2
-  education1: M.Eng in Machine Learning and Computer Vision, ANU, Australia"
-  education2: B.Eng in Control and Automation Engineering, HUST, Vietnam
-
 - name: Hoang Cao Duy
-  photo: 20quang.ppm.jpg
+  photo: duy.hc.jpeg
   info: Research Assistant
-  email: hung.nt@vinuni.edu.vn
-  number_educ: 1
-  education1:
+  email: duy.hc@vinuni.edu.vn
+  number_educ: 2
+  education1: B.Sc., Computer Science, Frankfurt University of Applied Sciences
+  education2: B.Sc., Computer Science, Vietnamese-German University
 
 - name: Nguyen Hung Quang
   photo: quang.nh.jpg
@@ -49,8 +43,15 @@
   education1: B.Sc., Computer Science, VNU University of Engineering and Technology, Hanoi, Vietnam
 
 - name: Le Hoang Long
-  photo: 20quang.ppm.jpg
+  photo: long.lh.jpeg
   info: Research Assistant
   email: hung.nt@vinuni.edu.vn
   number_educ: 1
   education1: B.Sc., Computer Science, VNU University of Engineering and Technology, Hanoi, Vietnam
+
+- name: Jason Yang Sze Jue
+  photo: jason.y.jpeg
+  info: Research Assistant
+  email: jason.y@vinuni.edu.vn
+  number_educ: 1
+  education1: B.Sc., Computer Science, University of Malaya, Kuala Lumpur, Malaysia

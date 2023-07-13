@@ -1,12 +1,12 @@
 ---
-title: "Information Security Lab - Vacancies"
+title: "Security and Artificial Intelligence Lab - Vacancies"
 layout: textlay
-excerpt: "Information Security Lab -- Vacancies"
+excerpt: "Security and Artificial Intelligence Lab -- Vacancies"
 sitemap: false
 permalink: /vacancies/
 ---
 
-# Open positions
+# Open positions (The positions are currently closed!)
 
 **We currently have two open positions available in our lab.**
 

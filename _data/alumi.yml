@@ -1,0 +1,41 @@
+- name: Ho Duc Nhan
+  photo: nhan.hd.jpeg
+  info: Research Assistant, now Eureka Robotic
+  duration: In SAIL November 2021 to July 2022, now Eureka Robotic
+  email: nhan.hd@vinuni.edu.vn
+  number_educ: 2
+  education1: M.Sc., Mathematics, Cryptology, Coding and Applications, Université de Limoges, France
+  education2: B.Sc., Mathematics and Informatics, Hanoi University of Science and Technology, Hanoi, Vietnam
+  
+- name: Nguyen Minh Quan
+  photo: quan.nm.jpeg
+  info: Research Assistant, now M.Sc. Biomedical Computing at Department of Informatics, TU Munich
+  duration: In SAIL January 2022 to August 2022, now M.Sc. Biomedical Computing at Department of Informatics, TU Munich
+  email: quan.nm@vinuni.edu.vn
+  number_educ: 2
+  education1: B.Sc., Computer Science, Hanoi University of Science and Technology, Hanoi, Vietnam
+  education2: B.Eng., Biomedical/ Medical Electronics, Hanoi University of Science and Technology, Hanoi, Vietnam
+
+- name: Tran Van Tuan 
+  photo: tuan.tv.jpeg
+  info: Research Assistant, now Ph.D. Computer Science at Trinity College Dublin, Ireland
+  duration: In SAIL January 2022 to August 2022, now Ph.D. Computer Science at Trinity College Dublin, Ireland
+  email: tuan.tv@vinuni.edu.vn
+  number_educ: 1
+  education1: B.Eng., Techcommunications Engineering, Ho Chi Minh City University of Technology, Vitnam
+
+- name: Nguyen Thuy Dung
+  photo: dung.nt2.png
+  info: Research Assistant, now Ph.D. Computer Science at Vanderbilt University
+  duration: In SAIL September 2022 to August 2023, now Ph.D. Computer Science at Vanderbilt University
+  email: dung.nt2@vinuni.edu.vn
+  number_educ: 1
+  education1: B.Sc., Global ICT, Hanoi University of Science and Technology, Hanoi, Vietnam
+
+
+- name: Vu Hong Phuc
+  photo: empty-face.png
+  info: Research Assistant, Bachelor Student, College of Engineering and Computer Science, VinUniversity
+  email: hung.nt@vinuni.edu.vn
+  # number_educ: 1
+  # education1:

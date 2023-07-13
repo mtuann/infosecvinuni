@@ -1,7 +1,7 @@
 ---
-title: "Information Security Lab - Publications"
+title: "Security and Artificial Intelligence Lab - Publications"
 layout: gridlay
-excerpt: "Information Security Lab -- Publications."
+excerpt: "Security and Artificial Intelligence Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
