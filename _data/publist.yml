@@ -26,16 +26,16 @@
   highlight: 1
 
 - title: "Toward Efficient Hierarchical Federated Learning Design Over Multi-Hop Wireless Communications Networks"
-  image: paper-04.png
+  image: paper-11.png
   description: This paper proposes a two-hop communication protocol with a dynamic resource allocation strategy to investigate the possibility of bandwidth allocation from a limited network resource to the maximum number of clients participating in FL.
   authors: Tu Viet Nguyen, Nhan Duc Ho, Hieu Thien Hoang, Cuong Danh Do, Kok-Seng Wong
   link:
     url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9924192
-    display: IEEE Access
+    display: IEEE Access 2022
   highlight: 1
 
 - title: "On the Trade-off Between Privacy Protection and Data Utility for Chest X-ray Images"
-  image: paper-02.png
+  image: paper-12.jpg
   description: This paper aims to find a trade-off between our privacy protection method and data utility for medical images. Specifically, we propose a solution to anonymize chest X-ray images by directly adding noise to the images to prevent verification attacks and evaluate how well those images can maintain good performance in the lung disease classification task.
   authors: Truong Giang Vu, Nursultan Makhanov, Nguyen Anh Tu, Kok-Seng Wong
   link:
@@ -44,7 +44,7 @@
   highlight: 1
 
 - title: "Emerging Privacy and Trust Issues for Autonomous Vehicle Systems"
-  image: paper-01.png
+  image: paper-13.jpg
   description: This paper discusses the emerging privacy and trust issues that are essential to motivate the acceptance of autonomous vehicles operating on public roads.
   authors: Thai-Hung Nguyen, Truong Giang Vu, Huong-Lan Tran, Kok-Seng Wong
   link:
@@ -53,34 +53,71 @@
   highlight: 1
 
 - title: "Efficient two-party integer comparison with block vectorization mechanism"
-  image: paper-07.png
+  image: paper-14.png
   description: In this paper, we transform the private integer comparison into a block comparison problem.In particular, we employ a block vectorization mechanism to encode the private inputs into blocks.
   authors: Thai-Hung Nguyen, Kok-Seng Wong, Thomas Oikonomou
   link:
     url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9528302
-    display: IEEE Access
+    display: IEEE Access 2021
   highlight: 1
 
+- title: "Defending backdoor attacks on vision transformer via patch processing"
+  image: paper-15.png
+  description: In this paper, we present the frst defensive strategy that utilizes a unique characteristic of ViTs against backdoor attacks.
+  authors: Khoa D Doan, Yingjie Lao, Peng Yang, Ping Li
+  link:
+    url: https://ojs.aaai.org/index.php/AAAI/article/download/25125/24897
+    display: 2023 AAAI Conference on Artificial Intelligence
+  highlight: 1
+
+- title: "Marksman backdoor: Backdoor attacks with arbitrary target class"
+  image: paper-16.png
+  description: In this paper, we show empirically that the proposed framework achieves high attack performance (e.g., 100% attack success rates in several experiments) while preserving the cleandata performance in several benchmark datasets, including MNIST, CIFAR10, GTSRB, and TinyImageNet.
+  authors: Khoa D Doan, Yingjie Lao, Ping Li
+  link:
+    url: https://proceedings.neurips.cc/paper_files/paper/2022/file/fa0126bb7ebad258bf4ffdbbac2dd787-Paper-Conference.pdf
+    display: 2022 The Conference and Workshop on Neural Information Processing Systems
+  highlight: 1
+
+- title: "One Loss for Quantization: Deep Hashing with Discrete Wasserstein Distributional Matching"
+  image: paper-17.png
+  description: In this paper, we propose a computationally efficient distributional distance by leveraging the discrete property of the hash functions.
+  authors: Doan Khoa D, Peng Yang, Ping Li
+  link:
+    url: https://openaccess.thecvf.com/content/CVPR2022/papers/Doan_One_Loss_for_Quantization_Deep_Hashing_With_Discrete_Wasserstein_Distributional_CVPR_2022_paper.pdf
+    display: 2022 Conference on Computer Vision and Pattern Recognition
+  highlight: 1
+
+- title: "Unified Energy-based Generative Network for Supervised Image Hashing"
+  image: paper-18.png
+  description: The proposed model also exhibits significant robustness toward out-of-distribution query data and is able to overcome missing data in both the training and testing phase with minimal retrieval performance degradation. Extensive experiments on several real-world datasets demonstrate superior results in which the proposed model achieves up to 5% improvement over the current state-of-the-art supervised hashing methods and exhibits a significant performance boost and robustness in both out-of-distribution retrieval and missing data scenarios.
+  authors: Khoa D Doan, Sarkhan Badirli, Chandan K Reddy
+  link:
+    url: https://openaccess.thecvf.com/content/ACCV2022/papers/Doan_Unified_Energy-based_Generative_Network_for_Supervised_Image_Hashing_ACCV_2022_paper.pdf
+    display: 2022 Conference on Asian Conference on Computer Vision
+  highlight: 1
+
+
 - title: "LIRA: Learnable, Imperceptible and Robust Backdoor Attacks"
-  image: paper-08.png
+  image: paper-19.png
   description: In this paper, we propose a novel and stealthy backdoor attack framework, LIRA, which jointly learns the optimal, stealthy trigger injection function and poisons the model. We formulate such an objective as a non-convex, constrained optimization problem.
   authors: Khoa Doan, Yingjie Lao, Weijie Zhao, Ping Li
   link:
     url: https://openaccess.thecvf.com/content/ICCV2021/papers/Doan_LIRA_Learnable_Imperceptible_and_Robust_Backdoor_Attacks_ICCV_2021_paper.pdf
-    display: ICCV Paper
+    display: 2021 International Conference on Computer Vision
   highlight: 1
 
 - title: "Backdoor Attack with Imperceptible Input and Latent Modification"
-  image: paper-09.png
+  image: paper-20.png
   description: In this paper, we extend the concept of imperceptible backdoor from the input space to the latent representation, which significantly improves the effectiveness against the existing defense mechanisms, especially those relying on the distinguishability between clean inputs and backdoor inputs in latent space.
   authors: Khoa Doan, Yingjie Lao, Weijie Zhao, Ping Li
   link:
     url: https://proceedings.neurips.cc/paper/2021/file/9d99197e2ebf03fc388d09f1e94af89b-Paper.pdf
-    display: NeurIPS Paper
+    display: 2021 The Conference and Workshop on Neural Information Processing Systems
   highlight: 1
 
 - title: "Towards self-awareness privacy protection for Internet of things data collection"
-  image: paper-10.png
+  image: paper-21.jpg
   description: In this paper, we study a self-awareness data collection protocol to raise the confidence of the respondents when submitting their personal data to the data collector. Our self-awareness protocol requires each respondent to help others in preserving his privacy. The communication (respondents and data collector) and collaboration (among respondents) in our solution will be performed automatically.
   authors: KS Wong, MH Kim
   link:
