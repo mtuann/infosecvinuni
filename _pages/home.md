@@ -8,7 +8,17 @@ permalink: /
 
 <!-- We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter. -->
 
-Our research group is located at the [College of Engineering and Computer Science, VinUniversity](https://vinuni.edu.vn/college-of-engineering-computer-science/). Our lab specializes in research related to trustworthy ai, generative modeling, information retrieval, computational advertising, information security, data privacy, and privacy-preserving machine/federated learning. We strive to make meaningful contributions to the field of ai security, information security, with the ultimate goal of enhancing the security and privacy of individuals and organizations. We work towards finding solutions that apply to smart healthcare and beyond.
+Our research group is located at the [College of Engineering and Computer Science, VinUniversity](https://vinuni.edu.vn/college-of-engineering-computer-science/). Our lab specializes in research related to trustworthy and practical AI solutions. We believe that by understanding the limits of existing machine/ federated learning methods and developing novel computational frameworks, we can address the complexities and constraints of real-world scenarios. Our research tackles the key aspects of **simplicity** and **reliability**. We strive to make machine learning/ federated learning models easier to build, deploy, and evolve, while ensuring their performance remains consistent under perturbations and security attack.
+
+Our research primarily revolves around generative-based approaches that exhibit low computational complexity and require minimal human effort. We strive to develop solutions that excel in these areas. Currently, our research activities encompass a wide range of themes, including but not limited to:
+- Enhancing **training** and **inference** processes
+- Incorporating **realistic assumptions** into ML models
+- Ensuring **algorithmic robustness** in challenging environments
+- Improving efficiency for deployment in **constrained settings**
+
+At our Security and Artificial Intelligence Lab, we also focus on addressing key challenges in machine learning and federated learning. Our research encompasses robust defense mechanisms against **backdoor attacks**, the **deployment** of federated learning on edge devices, techniques for secure data removal and **personalized federated learning**, and ensuring **fairness** in AI systems. Through our innovative work, we aim to advance trustworthy AI by enhancing security, privacy, efficiency, and fairness in machine learning and federated learning applications.
+
+<!-- We strive to make meaningful contributions to the field of ai security, information security, with the ultimate goal of enhancing the security and privacy of individuals and organizations. We work towards finding solutions that apply to smart healthcare and beyond. -->
 
 <!-- trustworthy ai, generative modeling, information retrieval, computational advertising -->
 
@@ -55,7 +65,7 @@ Our research group is located at the [College of Engineering and Computer Scienc
 
 Our research group consists of faculty members, postdoctoral researchers, and students who are passionate about information security and committed to advancing the state-of-the-art in this field. Our lab is equipped with advanced hardware and software infrastructure to support cutting-edge research activities.
 
-Our research laboratory is dedicated to exploring various aspects of data privacy and security, with a particular focus on data anonymization, data sharing, and data privacy in machine learning. We strive to develop innovative techniques that preserve the privacy and integrity of sensitive data, while allowing for effective data analysis. Additionally, we are actively investigating the security aspects of machine learning and federated learning, specifically concerning different types of attacks such as backdoor attacks and inference attacks. Our goal is to develop robust techniques capable of detecting and mitigating these attacks, thereby safeguarding the security and privacy of federated learning systems.
+<!-- Our research laboratory is dedicated to exploring various aspects of data privacy and security, with a particular focus on data anonymization, data sharing, and data privacy in machine learning. We strive to develop innovative techniques that preserve the privacy and integrity of sensitive data, while allowing for effective data analysis. Additionally, we are actively investigating the security aspects of machine learning and federated learning, specifically concerning different types of attacks such as backdoor attacks and inference attacks. Our goal is to develop robust techniques capable of detecting and mitigating these attacks, thereby safeguarding the security and privacy of federated learning systems. -->
 
 <!-- One of our main research focuses is on developing secure and efficient cryptographic protocols for various applications, including secure data sharing and computation, authentication, and privacy-preserving machine learning. We are also investigating the vulnerability of cryptographic systems to attacks, such as side-channel attacks, and developing countermeasures to enhance their security. -->
 
