@@ -3,8 +3,26 @@
   description: We provide a comprehensive survey of current backdoor attack strategies and defenses in FL, including a comprehensive analysis of different approaches.
   authors: Thuy Dung Nguyen, Tuan Nguyen, Phi Le Nguyen, Hieu H Pham, Khoa Doan, Kok-Seng Wong
   link:
-    url: https://arxiv.org/abs/2303.02213
-    display: arXiv:2303.02213 (2023)
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0952197623013507
+    display: 2024 Engineering Applications of Artificial Intelligence
+  highlight: 1
+  
+- title: "IBA: Towards Irreversible Backdoor Attacks in Federated Learning"
+  image: paper-iba.png
+  description: We proposed a framework that offers a more effective, stealthy, and durable approach to backdoor attacks in Federated Learning (FL).
+  authors: Dung Thuy Nguyen, Tuan Minh Nguyen, Anh Tuan Tran, Khoa D. Doan, and Kok-Seng Wong
+  link:
+    url: https://neurips.cc/virtual/2023/poster/71079
+    display: 2023 NeurIPS
+  highlight: 1
+
+- title: "An Empirical Study of Federated Unlearning: Efficiency and Effectiveness"
+  image: fedunlearning-machineul.png
+  description: We present an empirical study to investigate the impacts of various unlearning methods in diverse scenarios in Federated Learning
+  authors: Thai-Hung Nguyen, Hong-Phuc Vu, Dung Thuy Nguyen, Tuan Minh Nguyen, Khoa D Doan, Kok-Seng Wong
+  link:
+    url: https://www.acml-conf.org/2023/papers.html
+    display: 2023 ACML
   highlight: 1
 
 - title: "Personalized Privacy-Preserving Framework for Cross-Silo Federated Learning"
@@ -16,13 +34,49 @@
     display: arXiv:2302.12020 (2023)
   highlight: 1
 
+- title: "Defending backdoor attacks on vision transformer via patch processing"
+  image: paper-15.png
+  description: In this paper, we present the frst defensive strategy that utilizes a unique characteristic of ViTs against backdoor attacks.
+  authors: Khoa D Doan, Yingjie Lao, Peng Yang, Ping Li
+  link:
+    url: https://ojs.aaai.org/index.php/AAAI/article/download/25125/24897
+    display: 2023 AAAI Conference on Artificial Intelligence
+  highlight: 1
+
 - title: "FedDCT: Federated Learning of Large Convolutional Neural Networks on Resource Constrained Devices using Divide and Co-Training"
   image: paper-03.png
   description: We introduce FedDCT, a novel distributed learning paradigm that enables the usage of large, high-performance CNNs on resource-limited edge devices.
   authors: Quan Nguyen, Hieu H Pham, Kok-Seng Wong, Phi Le Nguyen, Truong Thao Nguyen, Minh N Do
   link:
     url: https://arxiv.org/abs/2211.10948
-    display: arXiv:2211.10948 (2022)
+    display: 2023 IEEE Transactions on Network and Service Management
+  highlight: 1
+
+- title: "Marksman backdoor: Backdoor attacks with arbitrary target class"
+  image: paper-16.png
+  description: In this paper, we show empirically that the proposed framework achieves high attack performance (e.g., 100% attack success rates in several experiments) while preserving the cleandata performance in several benchmark datasets, including MNIST, CIFAR10, GTSRB, and TinyImageNet.
+  authors: Khoa D Doan, Yingjie Lao, Ping Li
+  link:
+    url: https://proceedings.neurips.cc/paper_files/paper/2022/file/fa0126bb7ebad258bf4ffdbbac2dd787-Paper-Conference.pdf
+    display: 2022 The Conference and Workshop on Neural Information Processing Systems
+  highlight: 1
+
+- title: "One Loss for Quantization: Deep Hashing with Discrete Wasserstein Distributional Matching"
+  image: paper-17.png
+  description: In this paper, we propose a computationally efficient distributional distance by leveraging the discrete property of the hash functions.
+  authors: Doan Khoa D, Peng Yang, Ping Li
+  link:
+    url: https://openaccess.thecvf.com/content/CVPR2022/papers/Doan_One_Loss_for_Quantization_Deep_Hashing_With_Discrete_Wasserstein_Distributional_CVPR_2022_paper.pdf
+    display: 2022 Conference on Computer Vision and Pattern Recognition
+  highlight: 1
+
+- title: "Unified Energy-based Generative Network for Supervised Image Hashing"
+  image: paper-18.png
+  description: The proposed model also exhibits significant robustness toward out-of-distribution query data and is able to overcome missing data in both the training and testing phase with minimal retrieval performance degradation. Extensive experiments on several real-world datasets demonstrate superior results in which the proposed model achieves up to 5% improvement over the current state-of-the-art supervised hashing methods and exhibits a significant performance boost and robustness in both out-of-distribution retrieval and missing data scenarios.
+  authors: Khoa D Doan, Sarkhan Badirli, Chandan K Reddy
+  link:
+    url: https://openaccess.thecvf.com/content/ACCV2022/papers/Doan_Unified_Energy-based_Generative_Network_for_Supervised_Image_Hashing_ACCV_2022_paper.pdf
+    display: 2022 Conference on Asian Conference on Computer Vision
   highlight: 1
 
 - title: "Toward Efficient Hierarchical Federated Learning Design Over Multi-Hop Wireless Communications Networks"
@@ -61,43 +115,6 @@
     display: IEEE Access 2021
   highlight: 1
 
-- title: "Defending backdoor attacks on vision transformer via patch processing"
-  image: paper-15.png
-  description: In this paper, we present the frst defensive strategy that utilizes a unique characteristic of ViTs against backdoor attacks.
-  authors: Khoa D Doan, Yingjie Lao, Peng Yang, Ping Li
-  link:
-    url: https://ojs.aaai.org/index.php/AAAI/article/download/25125/24897
-    display: 2023 AAAI Conference on Artificial Intelligence
-  highlight: 1
-
-- title: "Marksman backdoor: Backdoor attacks with arbitrary target class"
-  image: paper-16.png
-  description: In this paper, we show empirically that the proposed framework achieves high attack performance (e.g., 100% attack success rates in several experiments) while preserving the cleandata performance in several benchmark datasets, including MNIST, CIFAR10, GTSRB, and TinyImageNet.
-  authors: Khoa D Doan, Yingjie Lao, Ping Li
-  link:
-    url: https://proceedings.neurips.cc/paper_files/paper/2022/file/fa0126bb7ebad258bf4ffdbbac2dd787-Paper-Conference.pdf
-    display: 2022 The Conference and Workshop on Neural Information Processing Systems
-  highlight: 1
-
-- title: "One Loss for Quantization: Deep Hashing with Discrete Wasserstein Distributional Matching"
-  image: paper-17.png
-  description: In this paper, we propose a computationally efficient distributional distance by leveraging the discrete property of the hash functions.
-  authors: Doan Khoa D, Peng Yang, Ping Li
-  link:
-    url: https://openaccess.thecvf.com/content/CVPR2022/papers/Doan_One_Loss_for_Quantization_Deep_Hashing_With_Discrete_Wasserstein_Distributional_CVPR_2022_paper.pdf
-    display: 2022 Conference on Computer Vision and Pattern Recognition
-  highlight: 1
-
-- title: "Unified Energy-based Generative Network for Supervised Image Hashing"
-  image: paper-18.png
-  description: The proposed model also exhibits significant robustness toward out-of-distribution query data and is able to overcome missing data in both the training and testing phase with minimal retrieval performance degradation. Extensive experiments on several real-world datasets demonstrate superior results in which the proposed model achieves up to 5% improvement over the current state-of-the-art supervised hashing methods and exhibits a significant performance boost and robustness in both out-of-distribution retrieval and missing data scenarios.
-  authors: Khoa D Doan, Sarkhan Badirli, Chandan K Reddy
-  link:
-    url: https://openaccess.thecvf.com/content/ACCV2022/papers/Doan_Unified_Energy-based_Generative_Network_for_Supervised_Image_Hashing_ACCV_2022_paper.pdf
-    display: 2022 Conference on Asian Conference on Computer Vision
-  highlight: 1
-
-
 - title: "LIRA: Learnable, Imperceptible and Robust Backdoor Attacks"
   image: paper-19.png
   description: In this paper, we propose a novel and stealthy backdoor attack framework, LIRA, which jointly learns the optimal, stealthy trigger injection function and poisons the model. We formulate such an objective as a non-convex, constrained optimization problem.
@@ -114,15 +131,6 @@
   link:
     url: https://proceedings.neurips.cc/paper/2021/file/9d99197e2ebf03fc388d09f1e94af89b-Paper.pdf
     display: 2021 The Conference and Workshop on Neural Information Processing Systems
-  highlight: 1
-
-- title: "Towards self-awareness privacy protection for Internet of things data collection"
-  image: paper-21.jpg
-  description: In this paper, we study a self-awareness data collection protocol to raise the confidence of the respondents when submitting their personal data to the data collector. Our self-awareness protocol requires each respondent to help others in preserving his privacy. The communication (respondents and data collector) and collaboration (among respondents) in our solution will be performed automatically.
-  authors: KS Wong, MH Kim
-  link:
-    url: https://www.hindawi.com/journals/jam/2014/827959/
-    display: Journal of Applied Mathematics 2014
   highlight: 1
 
 # - title: "Determination of the charge transfer when tunneling into putative Majorana modes in individual vortices in FeTe0.55Se0.045"

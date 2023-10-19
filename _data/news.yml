@@ -1,11 +1,24 @@
+
+- date: October 2023
+  headline: Welcome our new RA Long-Vu Tran!
+
+- date: September 2023
+  headline: "Our paper titled **IBA: Towards Irreversible Backdoor Attacks in Federated Learning** has been accepted at Conference on Neural Information Processing Systems (NeurIPS 2023). You can access the paper [here](https://neurips.cc/virtual/2023/poster/71079)."
+
+- date: September 2023
+  headline: "Our survey paper titled **Backdoor Attacks and Defenses in Federated Learning: Survey, Challenges and Future Research Directions** has been accepted at Engineering Applications of Artificial Intelligence (EAAI). You can access the paper [here](https://www.sciencedirect.com/science/article/pii/S0952197623013507)."
+
+- date: September 2023
+  headline: "Our paper titled **An Empirical Study of Federated Unlearning: Efficiency and Effectiveness** has been accepted at Asian Conference on Machine Learning (ACML 2023). You can access the paper [here](https://www.acml-conf.org/2023/papers.html)."
+
 - date: July 2023
-  headline: Congrats, Our workshop proposal on **Backdoor Attacks** got accepted at NeurIPS 2023.
+  headline: Congrats, Our [BUG](https://neurips.cc/virtual/2023/workshop/66550) workshop proposal on ** Backdoors in Deep Learning - The Good, the Bad, and the Ugly** got accepted at NeurIPS 2023.
 
 - date: 25. May 2023
   headline: "New paper on arXiv! [An Empirical Study of Federated Learning on IoT-Edge Devices: Resource Allocation and Heterogeneity](https://arxiv.org/abs/2305.19831)."
 
 - date: 5. May 2023
-  headline: "Our paper titled **FedGrad: Mitigating Backdoor Attacks in Federated Learning Through Local Ultimate Gradients Inspection** has been accepted at The International Joint Conference on Neural Networks (IJCNN 2023). You can access the paper [here]((https://arxiv.org/pdf/2305.00328.pdf))."
+  headline: "Our paper titled **FedGrad: Mitigating Backdoor Attacks in Federated Learning Through Local Ultimate Gradients Inspection** has been accepted at The International Joint Conference on Neural Networks (IJCNN 2023). You can access the paper [here](https://arxiv.org/pdf/2305.00328.pdf)."
 
 - date: 6. March 2023
   headline: "Two new papers on arXiv! One on [Backdoor Attacks and Defenses in Federated Learning: Survey, Challenges and Future Research Directions](https://arxiv.org/abs/2303.02213), and one on [Personalized Privacy-Preserving Framework for Cross-Silo Federated Learning](https://arxiv.org/abs/2302.12020)."
