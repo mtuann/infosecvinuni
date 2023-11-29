@@ -2,7 +2,7 @@
   headline: "One paper titled **FedFSLAR: A Federated Learning Framework for Few-shot Action Recognition** has been accepted at IEEE/CVF Winter Conference on Applications of Computer Vision (WACV2024) Workshop."
 
 - date: November, 2023
-  headline: "SAIL and MAIL lab memebers participated in ACML conference 2023. Tuan Nguyen presented our paper titled **An Empirical Study of Federated Unlearning: Efficiency and Effectiveness**. The code is available [here](https://github.com/sail-research/fed-unlearn)."
+  headline: "SAIL and MAIL lab members participated in ACML conference 2023. Tuan Nguyen presented our paper titled **An Empirical Study of Federated Unlearning: Efficiency and Effectiveness**. The code is available [here](https://github.com/sail-research/fed-unlearn)."
 
 - date: September 2023
   headline: "Our paper titled **IBA: Towards Irreversible Backdoor Attacks in Federated Learning** has been accepted at Conference on Neural Information Processing Systems (NeurIPS 2023). You can access the paper [here](https://neurips.cc/virtual/2023/poster/71079)."
